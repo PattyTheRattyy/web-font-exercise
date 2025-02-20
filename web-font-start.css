@@ -1,9 +1,29 @@
 /* General setup */
 
+@font-face {
+  font-family: "shake";
+  src:
+    url("fonts/SuperShake.woff2") format("woff2"),
+    monospace;
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "holidays";
+  src:
+    url("fonts/HolidaysHomework.woff2") format("woff2"),
+    serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
 html {
   font-size: 10px;
   margin: 0;
-  font-family: sans-serif;
+  font-family: "shake";
 }
 
 body {
@@ -26,4 +46,5 @@ p {
   font-size: 1.4rem;
   line-height: 1.6;
   word-spacing: 0.6rem;
+  font-family: "holidays";
 }
