@@ -1,5 +1,8 @@
 /* General setup */
 
+
+
+
 @font-face {
   font-family: "shake";
   src:
@@ -23,7 +26,7 @@
 html {
   font-size: 10px;
   margin: 0;
-  font-family: "shake";
+  font-family: "Sigmar";
 }
 
 body {
@@ -43,8 +46,9 @@ h2 {
 }
 
 p {
-  font-size: 1.4rem;
+  font-size: 2rem;
   line-height: 1.6;
   word-spacing: 0.6rem;
-  font-family: "holidays";
+  font-family: "Sigmar";
+  font-weight: 400;
 }
