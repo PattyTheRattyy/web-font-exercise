@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Holidays Homework';
+    src: url('HolidaysHomework.woff2') format('woff2'),
+        url('HolidaysHomework.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Super Shake';
+    src: url('SuperShake.woff2') format('woff2'),
+        url('SuperShake.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
